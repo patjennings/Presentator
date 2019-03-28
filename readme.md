@@ -29,3 +29,4 @@ Et on doit se trouver avec un fichier HTML tout beau, que l'on lance dans son na
 
 - Encore des aspects visuels à améliorer (CSS)
 - possibilité de spécifier une couleur de fond pour une slide
+- Revenir au début du slideshow, une fois arrivé au bout
