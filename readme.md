@@ -28,4 +28,4 @@ Et on doit se trouver avec un fichier HTML tout beau, que l'on lance dans son na
 ## Améliorations ##
 
 - Encore des aspects visuels à améliorer (CSS)
-
+- possibilité de spécifier une couleur de fond pour une slide
