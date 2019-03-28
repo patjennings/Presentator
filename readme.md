@@ -9,7 +9,7 @@ On créera d'abord un fichier texte, dans lequel on séparera chaque slide par u
 
 ---
 
-Le contenu de ma page 2 ()
+Le contenu de ma page 2
 
 --- 
 
@@ -20,7 +20,7 @@ Ma page 3 est *très* élégante avec tous ces **styles**
 Puis, une fois fait cela, on lance le script python, dans son terminal par exemple
 
 ``` bash
-python3 presentator.py
+$ python3 presentator.py
 ```
 
 Et on doit se trouver avec un fichier HTML tout beau, que l'on lance dans son navigateur. Si on a Firefox, on peut appuyer sur F11 (sur Linux) pour être en full-screen comme dans la vraie vie des présentations. Et là, on clique partout sur l'écran pour passer de slide en slide.
