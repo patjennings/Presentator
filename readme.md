@@ -5,7 +5,7 @@ Presentator permet de transformer un fichier markdown en présentation prête à
 On créera d'abord un fichier texte, dans lequel on séparera chaque slide par un séparateur `---`
 
 ``` markdown
-\#\# Le contenu de ma page 1 \#\#
+## Le contenu de ma page 1 ##
 
 ---
 
@@ -13,7 +13,7 @@ Le contenu de ma page 2 ()
 
 --- 
 
-Ma page 3 est \*très\* élégante avec tous ces \*\*styles\*\*
+Ma page 3 est *très* élégante avec tous ces **styles**
 ```
 
 
