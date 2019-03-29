@@ -41,6 +41,7 @@ section p{
 }
 section > div{
     margin: auto 15vh;
+    transform: translateY(-5vh)
 }
 p > img{
     margin: -15vh; /* L'inverse de ce qu'on a mise dans section > div, au dessus */
