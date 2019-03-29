@@ -1,63 +1,56 @@
 <html><head>
-<title>La belle présentation</title>
+<title>La présentation</title>
 <meta charset="utf-8" />
 <style type="text/css" media="screen">html, body{
     margin: 0;
     padding: 0;
     font-family: "Liberation Sans", "Helvetica", "Arial", sans-serif;
-}
-section{
-    width: 100%;
-    min-height: 100vh;
-    text-align: center;
-    /* margin: 10vh 0 10vh 0; */
-    /* margin-top: 10vh; */
+ }
+ section{
+     width: 100%;
+     min-height: 100vh;
+     display: flex;
+     flex-direction: column;
+ }
+ h1{
+     font-size: 72px;
+ }
+ h2{
+     font-size: 56px;
+ }
+ h3{
+     font-size: 40px;
+ }
+ p{
+     font-size: 24px;
+ }
+ section h1,
+ section h2,
+ section h3{
+     margin: 0;
+ }
 
-    color: #FFF;
-}
-h1{
-    font-size: 72px;
-}
-h2{
-    font-size: 56px;
-}
-h3{
-    font-size: 40px;
-}
-p{
-    font-size: 24px;
-}
-section h1,
-section h2,
-section h3{
-    margin: 0;
-}
-
-section p{
-    margin: 0;
-}
-section > div{
-        padding: 15vh;
-}
-
-section.color-primary{
-    background-color: blue;
-}
-section.color-secondary{
-    background-color: red;
-}
+ section p{
+     margin: 0;
+ }
+ section > div{
+     margin: auto 15vh;
+ }
 </style>
-</head><body><section id="p-1" class="color-primary"><div><h1>Bienvenue à cette présentation du siècle</h1>
-</div></section><section id="p-2" class="color-primary"><div><p><img src="assets/8a7c7302ebb65e57.jpg" alt="Limousine" title="limousine"></p>
-</div></section><section id="p-3" class="color-primary"><div><h1>Pas mal ? Attention, encore mieux</h1>
-</div></section><section id="p-4" class="color-primary"><div><h1>C'est la fin !</h1>
+</head><body><section id="p-1" style="background-color:#FFCC00; color: #0000FF;"><div><h1>Bienvenue à cette présentation du siècle</h1>
+</div></section><section id="p-2" style="background-color:#FF0000; color: #FFFFFF;"><div><p><img src="assets/8a7c7302ebb65e57.jpg" alt="Limousine" title="limousine"></p>
+</div></section><section id="p-3" style="background-color:#FFCC00; color: #FFFFFF;"><div><h1>Pas mal ? Attention, encore mieux</h1>
+</div></section><section id="p-4" style="background-color:#FF00FF; color: #FF0000;"><div><h1>C'est la fin !</h1>
 <p>Dommage...</p>
-</div></section><section id="p-5" class="color-primary"><div><p>Hé non, pas tout à fait. Je veux du <strong>gras</strong>, et puis aussi de <em>l'italique</em></p>
-</div></section><section id="p-6" class="color-primary"><div><p>Qui veut une liste ?</p>
+</div></section><section id="p-5" style="background-color:#0000FF; color: #FFFFFF;"><div><p>Hé non, pas tout à fait. Je veux du <strong>gras</strong>, et puis aussi de <em>l'italique</em></p>
+</div></section><section id="p-6" style="background-color:#00FF00; color: #FFCC00;"><div><p>Qui veut une liste ?</p>
 <ul>
-<li>"Moi"</li>
-<li>"Pas moi"</li>
-<li>"Moi, non plus, merci."</li>
+<li><p>"Moi"</p>
+</li>
+<li><p>"Pas moi"</p>
+</li>
+<li><p>"Moi, non plus, merci."</p>
+</li>
 </ul>
 </div></section><script type="text/javascript">let cursor = 0;
 let elements;

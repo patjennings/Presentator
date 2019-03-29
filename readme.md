@@ -14,8 +14,11 @@ Le contenu de ma page 2
 --- 
 
 Ma page 3 est *très* élégante avec tous ces **styles**
+
+---
 ```
 
+> On veillera à bien fermer la dernière section/slide avec un séparateur
 
 Puis, une fois fait cela, on lance le script python, dans son terminal par exemple
 
@@ -27,6 +30,6 @@ Et on doit se trouver avec un fichier HTML tout beau, que l'on lance dans son na
 
 ## Améliorations ##
 
-- Encore des aspects visuels à améliorer (CSS)
-- possibilité de spécifier une couleur de fond pour une slide
+- ~~Encore des aspects visuels à améliorer (CSS)~~
+- ~~possibilité de spécifier une couleur de fond pour une slide~~
 - Revenir au début du slideshow, une fois arrivé au bout
