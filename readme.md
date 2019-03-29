@@ -2,6 +2,8 @@
 
 Presentator permet de transformer un fichier markdown en présentation prête à l'emploi, qu'on lance dans un navigateur, et qui n'a rien à reprocher aux machines de guerre type P\*\*\*\*r Po\*\*t ou K\*\*\*\*te.
 
+## Créer le contenu ##
+
 On créera d'abord un fichier texte, dans lequel on séparera chaque slide par un séparateur `---`
 
 ``` markdown
@@ -19,6 +21,23 @@ Ma page 3 est *très* élégante avec tous ces **styles**
 ```
 
 > On veillera à bien fermer la dernière section/slide avec un séparateur
+
+## Couleurs ##
+
+Pour définir des couleurs de polices et de fond, on ajoutera des instructions `background` et `color` dans chaque slide. Par défaut, le fond a une valeur de `#000000` et les textes `#FFFFFF`.
+
+``` markdown
+background: #FFCC00
+color: #0000FF
+{Le contenu qui sera affiché dans la page}
+---
+background: blue
+color: green
+{Contenu}
+---
+```
+
+## Création du fichier html ##
 
 Puis, une fois fait cela, on lance le script python, dans son terminal par exemple
 
