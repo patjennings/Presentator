@@ -45,7 +45,7 @@ Puis, une fois fait cela, on lance le script python, dans son terminal par exemp
 $ python3 presentator.py
 ```
 
-Et on doit se trouver avec un fichier HTML tout beau, que l'on lance dans son navigateur. Si on a Firefox, on peut appuyer sur F11 (sur Linux) pour être en full-screen comme dans la vraie vie des présentations. Et là, on clique partout sur l'écran pour passer de slide en slide.
+Et on doit se trouver avec un fichier HTML `index.html` tout beau, que l'on lance dans son navigateur. Si on a Firefox, on peut appuyer sur F11 (sur Linux) pour être en full-screen comme dans la vraie vie des présentations. Et là, on clique partout sur l'écran pour passer de slide en slide.
 
 ## Exemple vivant ##
 
