@@ -51,6 +51,8 @@ Et on doit se trouver avec un fichier HTML `index.html` tout beau, que l'on lanc
 
 https://www.thomasguesnon.net/assets/files/convivialite_low_tech_design_presentation/
 
+[Le fichier de base](https://www.thomasguesnon.net/assets/files/convivialite_low_tech_design_presentation/presentation.md)
+
 ## Améliorations ##
 
 - ~~Encore des aspects visuels à améliorer (CSS)~~
