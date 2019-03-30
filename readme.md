@@ -1,6 +1,6 @@
 # Presentator #
 
-Presentator permet de transformer un fichier markdown en présentation prête à l'emploi, qu'on lance dans un navigateur, et qui n'a rien à reprocher aux machines de guerre type P\*\*\*\*r Po\*\*t ou K\*\*\*\*te.
+Presentator permet de transformer un fichier markdown en présentation prête à l'emploi, qu'on lance dans un navigateur, et qui n'a rien à envier aux machines de guerre type P\*\*\*\*r Po\*\*t ou K\*\*\*\*te.
 
 ## Créer le contenu ##
 
